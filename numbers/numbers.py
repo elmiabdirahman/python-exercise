@@ -7,5 +7,5 @@ x = 0x12c
 print(hex(x))
 
 #a + bi
-x = 1 + 2j
-print(x)
+##x = 1 + 2j
+##print(x)
