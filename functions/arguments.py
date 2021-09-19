@@ -15,3 +15,10 @@ def multiply(*list):
 
 
 print(multiply(2, 3, 4, 5))
+
+### Arguments- xxargs
+def save_user(**user):
+    print(user["id"], user["name"])
+
+
+save_user(id=1, name="admin")
